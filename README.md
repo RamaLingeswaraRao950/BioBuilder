@@ -10,10 +10,6 @@ It lets you quickly generate a personalized bio with structured inputs, real-tim
 - 📋 **One-Click Copy** – Copy generated bio text to your clipboard.
 - ⚡ **Interactive Buttons** – Hover, press, and release animations for a polished feel.
 
-### 🛠 Installation & Setup :--
-- Clone the repository
-- Run the application
-
 ### 📋 Usage :--
 - Enter your details in the provided form fields.
 - Click 📝 Generate to create your bio.
@@ -28,10 +24,15 @@ It lets you quickly generate a personalized bio with structured inputs, real-tim
 
 🚀 Built for simplicity, functionality, and style.
 
+### 🛠 Installation & Setup :--
+- Clone the repository
+- Run the application
+
 ### 💡 Future Enhancements :--
 - 🗂 Save bios as .txt or .pdf
 - 🌍 Multi-language support
 - 🎭 Customizable themes
 
-🤝 Contributions, issues, and feature requests are welcome!
+🤝 Contributions, issues, and feature requests are welcome !
+
 ✍️ By Rama Lingeswara Rao Sivakavi.
