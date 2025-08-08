@@ -1,6 +1,6 @@
 # 🧑‍💻 BioBuilder
 
-**BioBuilder** is a **Python Tkinter-based GUI application** that lets you quickly generate a personalized bio with structured inputs, real-time validation, and a clean, responsive interface.  
+It lets you quickly generate a personalized bio with structured inputs, real-time validation, and a clean, responsive interface.  
 It supports **light/dark themes**, input restrictions, and an instant **preview window** with copy functionality.
 
 ### ✨ Features :--
@@ -32,8 +32,7 @@ It supports **light/dark themes**, input restrictions, and an instant **preview 
 - 🌍 Multi-language support
 - 🎭 Customizable themes
 
-### 🤝 Contributing :--
-- Contributions, issues, and feature requests are welcome!
+🤝 Contributions, issues, and feature requests are welcome!
 
 🚀 Built for simplicity, functionality, and style.
 
