@@ -1,6 +1,6 @@
 # 🧑‍💻 BioBuilder
 
-It lets you quickly generate a personalized bio with structured inputs, real-time validation, and a clean, responsive interface. It supports light/dark themes, input restrictions, and an instant preview window with copy functionality.
+It lets you quickly generate a personalized bio with structured inputs, real-time validation, and a clean, responsive interface. It supports themes, input restrictions, and an instant preview window with copy functionality.
 
 ### ✨ Features :--
 - 🎨 **Light/Dark Mode Toggle** – Switch between clean light and modern dark themes.
