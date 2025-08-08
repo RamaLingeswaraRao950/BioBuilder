@@ -1,7 +1,6 @@
 # 🧑‍💻 BioBuilder
 
-It lets you quickly generate a personalized bio with structured inputs, real-time validation, and a clean, responsive interface.  
-It supports **light/dark themes**, input restrictions, and an instant **preview window** with copy functionality.
+It lets you quickly generate a personalized bio with structured inputs, real-time validation, and a clean, responsive interface. It supports light/dark themes, input restrictions, and an instant preview window with copy functionality.
 
 ### ✨ Features :--
 - 🎨 **Light/Dark Mode Toggle** – Switch between clean light and modern dark themes.
@@ -27,13 +26,12 @@ It supports **light/dark themes**, input restrictions, and an instant **preview 
 - Age – Must be a number less than 90 with no leading zeros.
 - Siblings – Must be a number less than 15 with no leading zeros.
 
+🚀 Built for simplicity, functionality, and style.
+
 ### 💡 Future Enhancements :--
 - 🗂 Save bios as .txt or .pdf
 - 🌍 Multi-language support
 - 🎭 Customizable themes
 
 🤝 Contributions, issues, and feature requests are welcome!
-
-🚀 Built for simplicity, functionality, and style.
-
 ✍️ By Rama Lingeswara Rao Sivakavi.
